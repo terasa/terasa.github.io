@@ -1,7 +1,8 @@
 repo_name: terasa/terasa.github.io
 report_id: f6cee08e6bc50ae2ad44150eb9e79a1b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T14:07:52+00:00'
+timestamp: '2024-01-04T14:55:30+00:00'
 requested_by: terasa
 provider: github
 branch: circleci-project-setup
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/terasa/terasa.github.io/blob/circleci-project-setup/.circleci/config.yml
   detection_source: ".circleci/config.yml"
   last_updated_by: gazeta.pl
   last_updated_on: 2020-11-20 13:13:21.000000000 Z
@@ -26,4 +28,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/terasa/terasa.github.io
   detection_source: Repo Metadata
